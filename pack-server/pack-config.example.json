@@ -1,0 +1,11 @@
+{
+  "SiteDir": "C:/path/to/your/gridea/site",
+  "ArchiveName": "site.zip",
+  "Port": 8765,
+  "ExcludeDirs": [
+    "output",
+    ".git",
+    "node_modules",
+    ".idea"
+  ]
+}

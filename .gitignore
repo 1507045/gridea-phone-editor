@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# IDE / build caches
+/.kotlin/
+/.idea/
+
+# Logs
+*.log
+
+# pack-server 运行时与个人文件（不要提交；保留 pack-config.example.json）
+/pack-server/pack-config.json
+/pack-server/pack-server.log
+/pack-server/手机端填写说明.txt
